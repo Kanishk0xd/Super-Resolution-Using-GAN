@@ -1,4 +1,4 @@
-v# ESRGAN Super-Resolution on DIV2K Dataset
+# ESRGAN Super-Resolution on DIV2K Dataset
 
 ## 📌 Overview
 This project implements an Enhanced Super-Resolution Generative Adversarial Network (ESRGAN) to upscale low-resolution images to high-resolution images using deep learning. The model is trained on the DIV2K dataset and includes adversarial training with a generator and discriminator.
