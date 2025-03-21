@@ -110,6 +110,6 @@ Feel free to contribute by submitting pull requests or opening issues.
 
 ---
 🔗 **Author:** Your Name  
-📧 **Contact:** your.email@example.com  
-📁 **GitHub Repository:** [GitHub Link](https://github.com/yourrepo)
+📧 **Contact:** kanishkthakur115@gmail.com
+
 
