@@ -109,7 +109,8 @@ This project is open-source and available under the MIT License.
 Feel free to contribute by submitting pull requests or opening issues.
 
 ---
-🔗 **Author:** Kanishk Thakur 
+🔗 **Author:** Kanishk Thakur
+ 
 📧 **Contact:** kanishkthakur115@gmail.com
 
 
