@@ -9,7 +9,7 @@ This project implements an Enhanced Super-Resolution Generative Adversarial Netw
 - Implements VGG perceptual loss for feature-based loss computation.
 - Supports training and inference on Google Colab.
 - Allows users to upload and enhance images.
-
+3
 ## 🛠️ Setup
 ### Prerequisites
 Ensure you have the following installed:
@@ -109,7 +109,7 @@ This project is open-source and available under the MIT License.
 Feel free to contribute by submitting pull requests or opening issues.
 
 ---
-🔗 **Author:** Your Name  
+🔗 **Author:** Kanishk Thakur 
 📧 **Contact:** kanishkthakur115@gmail.com
 
 
